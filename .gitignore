@@ -1,0 +1,30 @@
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Beam/Dataflow temp files
+tmp/
+temp/
+
+# Jupyter
+.ipynb_checkpoints/

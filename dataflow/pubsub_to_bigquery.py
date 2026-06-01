@@ -15,7 +15,7 @@ SUBSCRIPTION = (
 )
 
 TABLE_SPEC = (
-    f"{PROJECT_ID}:retail_raw.orders_streaming"
+    f"{PROJECT_ID}:retail_raw.orders_streaming_partitioned"
 )
 
 # -----------------------------------------
